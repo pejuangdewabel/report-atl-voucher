@@ -67,7 +67,7 @@
                         <h3 class="page-title">Download Laporan Transaksi Voucher Ayam Tepi Laut</h3>
                     </div>
                     <div class="row">
-                        <div class="col-md-2 grid-margin stretch-card">
+                        <div class="col-md-4 grid-margin stretch-card">
                             <div class="card">
                                 <div class="card-body">
                                     <h4 class="card-title">Filter Tanggal</h4>
@@ -94,7 +94,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-10 grid-margin stretch-card">
+                        <div class="col-md-8 grid-margin stretch-card">
                             <div class="card">
                                 <div class="card-body">
                                     <h4 class="card-title">Data</h4>
